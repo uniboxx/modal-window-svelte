@@ -12,7 +12,7 @@
 <button class={$$props.class} on:click>{@html label}</button>
 
 <style lang="stylus">
-  @import '../variables.styl'
+  @import '../assets/styl/_variables.styl'
   .show-modal
     display block
     font-size 1.5rem

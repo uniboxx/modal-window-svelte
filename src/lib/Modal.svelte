@@ -21,7 +21,7 @@
 </div>
 
 <style lang="stylus">
-  @import '../variables.styl';
+  @import '../assets/styl/_variables.styl';
 
   h1
     font-size 2rem
