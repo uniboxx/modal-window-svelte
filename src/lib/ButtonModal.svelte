@@ -12,7 +12,7 @@
     font-size: 1.5rem;
     font-weight: 600;
     padding: 1.5rem 3rem;
-    margin: 2rem;
+    margin: 2rem auto;
     border: none;
     background-color: #fff;
     color: #444;
