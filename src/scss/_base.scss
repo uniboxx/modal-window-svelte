@@ -14,4 +14,6 @@ body {
   background: linear-gradient(to top left, $gradient1, $gradient2);
   min-height: 100svh;
   position: relative;
+  // overflow: hidden;
+  border: 1px solid;
 }
