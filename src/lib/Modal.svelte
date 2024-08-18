@@ -37,9 +37,10 @@
     overflow-y: scroll;
     background-color: #fff;
     padding: 2.5rem;
-    border-radius: 5px;
+    border-radius: 10px;
     box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.3);
     z-index: 10;
+    transition: 0.3s;
     @media screen and (min-width: vars.$sm) {
       width: 70%;
       left: 50%;
